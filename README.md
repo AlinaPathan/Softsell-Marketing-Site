@@ -44,31 +44,32 @@ src/
 └── main.jsx
 
 ```
-## Installation & Setup
+# Installation & Setup
 
-# Clone the repo
+## Clone the repo
+```
 git clone https://github.com/AlinaPathan/Softsell-Marketing-Site.git
-
-# Go into the project
-
+```
+## Go into the project
+```
 cd Softsell
-
-# Install dependencies
-
+```
+## Install dependencies
+```
 npm install
 
 npm install lucide-react
+```
 
-
-# Run the dev server
-
+## Run the dev server
+```
 npm run dev
 
-
+```
 Make sure you have Node.js and npm installed.
 
 
-## Deployment
+# Deployment
 
 deployed the site to:
 
@@ -78,7 +79,7 @@ Vercel
 
 
 
-## Acknowledgements
+# Acknowledgements
 
 Tailwind CSS
 
